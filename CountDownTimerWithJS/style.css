@@ -1,0 +1,16 @@
+body{
+    background: lightgray;
+}
+
+
+.container{
+    border-radius: 30px;
+    width:60px;
+    background-color:#010101;
+    padding: auto;
+    height: 60px;
+    margin-right: 20px;
+    color:gray;
+    text-align: center;
+    
+}
