@@ -7,10 +7,18 @@ body{
     border-radius: 30px;
     width:60px;
     background-color:#010101;
-    padding: auto;
+    
     height: 60px;
     margin-right: 20px;
     color:gray;
     text-align: center;
     
+    line-height: 4;
+  
+    
+}
+.textmessage{
+    margin-right: 26px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }

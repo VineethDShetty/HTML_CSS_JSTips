@@ -1,5 +1,5 @@
 // Setting of Count Down Time 
-var countDownDate = new Date("Sept18, 2022 00:00:25").getTime();
+var countDownDate = new Date("Sept21, 2022 00:00:25").getTime();
 // The Function is called every second
 var x = setInterval(function() {
   // Setting the Present Time
