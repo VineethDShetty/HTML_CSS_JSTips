@@ -1,0 +1,20 @@
+body{
+    background: rgb(73, 6, 73);
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.container span{
+    font-size: 8em;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ffff;
+    text-shadow: -0.1em 0.08em 0.29em rgba(0,0,0,6);
+    margin-left: -0.12em;
+    text-transform: capitalize;
+}
