@@ -1,4 +1,4 @@
-# Repo for all my coding related tips
+# Repository for hacks on HTML, CSS, JS
 
 ### Modules 
 * Animated Tooltip
@@ -9,7 +9,6 @@
 * Favicon
 * HamBurgerMenu
 * TextOverlapping
-* reacttoastifytestapp
 * Flip-Card
 * Nth Child 
 * CSS Widget
