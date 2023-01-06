@@ -12,6 +12,7 @@
 * Flip-Card
 * Nth Child 
 * CSS Widget
+* Sticky Sidebars
 
 To get the Demo of the above repository click here https://codepen.io/VineethDShetty
 
