@@ -13,6 +13,7 @@
 * Nth Child 
 * CSS Widget
 * Sticky Sidebars
+* CSS Shaking Validation
 
 To get the Demo of the above repository click here https://codepen.io/VineethDShetty
 
