@@ -14,6 +14,7 @@
 * CSS Widget
 * Sticky Sidebars
 * CSS Shaking Validation
+* Typing Animation
 
 To get the Demo of the above repository click here https://codepen.io/VineethDShetty
 

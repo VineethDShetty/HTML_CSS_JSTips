@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Typing Effect</title>
+    <style>
+        p {
+            display: flex;
+            justify-content: center;
+            
+            margin-top: 60px;
+        }
+        body{
+            background-color: whitesmoke;
+        }
+    </style>
+</head>
+<body>
+    <p class="typing"></p>
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+    <script>
+    var typed = new Typed('.typing', {
+    strings: ['Welcome to Vineeth_Techhacks','Like Share and Follow', ],
+    typeSpeed:100,
+    backSpeed:50,
+    loop:true
+    
+  });
+    </script>
+</body>
+
+</html>
